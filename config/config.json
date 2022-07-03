@@ -9,9 +9,9 @@
   "NFT_NAME": "Bird Hat Grift Club",
   "SYMBOL": "BHGC",
   "MAX_SUPPLY": 10,
-  "WEI_COST": 960240000000000042069,
-  "DISPLAY_COST": 960.240000000000042069,
-  "GAS_LIMIT": 750000000,
+  "WEI_COST": 2400000000000000000000,
+  "DISPLAY_COST": 2400,
+  "GAS_LIMIT": 500000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/bird-hat-grift-club-collectibles",
   "SHOW_BACKGROUND": true
