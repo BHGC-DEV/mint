@@ -1,8 +1,8 @@
 {
-  "CONTRACT_ADDRESS": "0xc5Ed49daA3e66d0d25bF2da521450Bb6b334BC0C",
-  "SCAN_LINK": "https://polygonscan.com/address/0xc5Ed49daA3e66d0d25bF2da521450Bb6b334BC0C",
+  "CONTRACT_ADDRESS": "0xfE2951dB6E33A3d7Ef4a9eF631D1E9dB06995De2",
+  "SCAN_LINK": "https://polygonscan.com/address/0xfE2951dB6E33A3d7Ef4a9eF631D1E9dB06995De2",
   "NETWORK": {
-    "NAME": "Matic Mainnet",
+    "NAME": "Matic",
     "SYMBOL": "Matic",
     "ID": 137
   },
